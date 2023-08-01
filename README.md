@@ -1,5 +1,5 @@
 # TestingTrello
-Automate Testing on Trello using Java & OOP , Rest-Assured And TestNG assertion and for generating a report.
+Automate Testing on Trello api's using Java & OOP , Rest-Assured And TestNG assertion and for generating a report.
 To get started with this project: 
 A-Clone this repository to your local machine. 
 B-Install all necessary dependencies (e.g., Java JDK). 
